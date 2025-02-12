@@ -66,15 +66,6 @@ Commands:
 
 Just clone the repo, install dependencies with `./run setup`, and you should be good to go!
 
-## 🤔 Questions? Problems? Suggestions?
-
-### Get help - [Discord 💬](https://discord.gg/autogpt)
-
-[![Join us on Discord](https://invidget.switchblade.xyz/autogpt)](https://discord.gg/autogpt)
-
-To report a bug or request a feature, create a [GitHub Issue](https://github.com/Significant-Gravitas/AutoGPT/issues/new/choose). Please ensure someone else hasn’t created an issue for the same topic.
-
-## 🤝 Sister projects
 
 ### 🔄 Agent Protocol
 
